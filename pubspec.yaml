@@ -1,0 +1,12 @@
+name: nome_do_seu_projeto
+description: Uma descrição do seu projeto.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.8.0' 
+
+dependencies:
+  flutter:
+    sdk: flutter
